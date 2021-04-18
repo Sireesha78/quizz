@@ -1,0 +1,43 @@
+#count {
+  font-family: serif;
+  font-size: 30px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+#test {
+  font-family: serif;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+}
+
+#test_status {
+  font-family: serif;
+  font-size: 30px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.button {
+  background-color: white;
+  color: black;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 26px;
+  font-family: serif;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #000000;
+  color: white;
+}
+
+body{
+  background-image: url('bg5.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
